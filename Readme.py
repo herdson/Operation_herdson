@@ -1,2 +1,2 @@
 print("""Thx to read
-This git repo wrote by herdson""")
+This repo filled by python codes""")
