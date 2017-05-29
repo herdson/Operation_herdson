@@ -1,6 +1,6 @@
 import sys, socket
 
-IP="127.0.0.1"
+IP="192.168.34.196"
 Port=8888
 
 sckt=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
